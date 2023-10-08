@@ -1,4 +1,4 @@
-![logo](https://github.com/the-arun-official/the-arun-official/blob/main/GitHub-Banner.png)
+![logo](https://github.com/the-arun-official/the-arun-official/blob/main/Profile_Banner.png)
 <h1 align="center">Hi 👋, I'm Arun</h1>
 <h3 align="center">A Specialized Coder from India</h3>
 
