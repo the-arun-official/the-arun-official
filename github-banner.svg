@@ -1,0 +1,108 @@
+<svg width="100%" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>P. Arun — GitHub Profile Banner</title>
+  <desc>A dark animated banner for P. Arun, Full-Stack Developer specialising in the PERN stack</desc>
+
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#1a1a3e"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa;stop-opacity:0"/>
+      <stop offset="40%" style="stop-color:#a78bfa;stop-opacity:1"/>
+      <stop offset="60%" style="stop-color:#c4b5fd;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#c4b5fd;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#c4b5fd"/>
+      <stop offset="50%" style="stop-color:#ffffff"/>
+      <stop offset="100%" style="stop-color:#a78bfa"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes twinkle { 0%,100%{opacity:0.2} 50%{opacity:1} }
+    @keyframes floatUp { 0%{transform:translateY(0px)} 50%{transform:translateY(-6px)} 100%{transform:translateY(0px)} }
+    @keyframes slideIn { 0%{opacity:0;transform:translateX(-30px)} 100%{opacity:1;transform:translateX(0)} }
+    @keyframes fadeIn { 0%{opacity:0} 100%{opacity:1} }
+    @keyframes pulse { 0%,100%{opacity:0.6} 50%{opacity:1} }
+    @keyframes scanline { 0%{transform:translateX(-200px)} 100%{transform:translateX(800px)} }
+    @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+    .star{animation:twinkle 2s infinite ease-in-out;}
+    .name-group{animation:slideIn 0.8s ease-out forwards;}
+    .tagline{animation:fadeIn 1.2s ease-out 0.4s both;}
+    .badge-row{animation:fadeIn 1.4s ease-out 0.8s both;}
+    .separator{animation:pulse 3s infinite;}
+    .scan{animation:scanline 4s linear infinite;opacity:0.04;}
+    .cursor{animation:blink 1s step-end infinite;}
+    .floater{animation:floatUp 3s ease-in-out infinite;}
+  </style>
+
+  <rect width="680" height="220" fill="url(#bgGrad)" rx="12"/>
+  <rect class="scan" x="-200" y="0" width="180" height="220" fill="white"/>
+
+  <g opacity="0.12">
+    <circle cx="60" cy="40" r="1.2" fill="#a78bfa" class="star" style="animation-delay:0s"/>
+    <circle cx="160" cy="25" r="1" fill="#c4b5fd" class="star" style="animation-delay:0.3s"/>
+    <circle cx="260" cy="50" r="1.4" fill="#a78bfa" class="star" style="animation-delay:0.7s"/>
+    <circle cx="380" cy="20" r="1" fill="#c4b5fd" class="star" style="animation-delay:1s"/>
+    <circle cx="490" cy="45" r="1.2" fill="#a78bfa" class="star" style="animation-delay:0.5s"/>
+    <circle cx="590" cy="28" r="1" fill="#c4b5fd" class="star" style="animation-delay:1.4s"/>
+    <circle cx="640" cy="60" r="1.3" fill="#a78bfa" class="star" style="animation-delay:0.2s"/>
+    <circle cx="120" cy="180" r="1" fill="#c4b5fd" class="star" style="animation-delay:1.8s"/>
+    <circle cx="320" cy="195" r="1.2" fill="#a78bfa" class="star" style="animation-delay:0.9s"/>
+    <circle cx="540" cy="185" r="1" fill="#c4b5fd" class="star" style="animation-delay:1.2s"/>
+    <circle cx="620" cy="165" r="1.3" fill="#a78bfa" class="star" style="animation-delay:0.4s"/>
+    <circle cx="40" cy="150" r="1" fill="#c4b5fd" class="star" style="animation-delay:1.6s"/>
+  </g>
+
+  <g transform="translate(76, 110)" opacity="0.18">
+    <circle cx="0" cy="0" r="28" fill="none" stroke="#a78bfa" stroke-width="0.6" stroke-dasharray="4,6"/>
+    <circle class="floater" cx="0" cy="0" r="4" fill="#a78bfa" opacity="0.7"/>
+  </g>
+
+  <g transform="translate(618, 100)" opacity="0.15">
+    <circle cx="0" cy="0" r="22" fill="none" stroke="#c4b5fd" stroke-width="0.5" stroke-dasharray="3,5"/>
+    <circle class="floater" cx="22" cy="0" r="3" fill="#c4b5fd" opacity="0.8" style="animation-delay:1.5s"/>
+  </g>
+
+  <g opacity="0.5">
+    <line x1="22" y1="22" x2="46" y2="22" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="22" y1="22" x2="22" y2="46" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g opacity="0.5">
+    <line x1="658" y1="198" x2="634" y2="198" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="658" y1="198" x2="658" y2="174" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+
+  <g class="name-group">
+    <text x="178" y="82" font-family="'Courier New', monospace" font-size="13" fill="#7c3aed" opacity="0.9">&lt;dev&gt;</text>
+    <text x="230" y="112" font-family="Georgia, serif" font-size="46" font-weight="700" fill="url(#nameGrad)" filter="url(#glow)" letter-spacing="2">P. Arun</text>
+    <text x="474" y="82" font-family="'Courier New', monospace" font-size="13" fill="#7c3aed" opacity="0.9">&lt;/dev&gt;</text>
+  </g>
+
+  <rect class="separator" x="178" y="122" width="336" height="1.5" fill="url(#lineGrad)" rx="1"/>
+
+  <g class="tagline">
+    <text x="340" y="148" font-family="'Courier New', monospace" font-size="14" fill="#c4b5fd" text-anchor="middle" letter-spacing="1.5">Full-Stack Developer</text>
+    <text x="340" y="167" font-family="'Courier New', monospace" font-size="11" fill="#a78bfa" text-anchor="middle" letter-spacing="0.8" opacity="0.85">PERN · TypeScript · REST APIs · PostgreSQL</text>
+  </g>
+
+  <g class="badge-row">
+    <rect x="178" y="182" width="68" height="22" rx="11" fill="#1e1b4b" stroke="#7c3aed" stroke-width="0.8"/>
+    <text x="212" y="197" font-family="'Courier New', monospace" font-size="9.5" fill="#a78bfa" text-anchor="middle" letter-spacing="0.5">Node.js</text>
+    <rect x="254" y="182" width="64" height="22" rx="11" fill="#1e1b4b" stroke="#7c3aed" stroke-width="0.8"/>
+    <text x="286" y="197" font-family="'Courier New', monospace" font-size="9.5" fill="#a78bfa" text-anchor="middle" letter-spacing="0.5">React</text>
+    <rect x="326" y="182" width="78" height="22" rx="11" fill="#1e1b4b" stroke="#7c3aed" stroke-width="0.8"/>
+    <text x="365" y="197" font-family="'Courier New', monospace" font-size="9.5" fill="#a78bfa" text-anchor="middle" letter-spacing="0.5">PostgreSQL</text>
+    <rect x="412" y="182" width="82" height="22" rx="11" fill="#1e1b4b" stroke="#7c3aed" stroke-width="0.8"/>
+    <text x="453" y="197" font-family="'Courier New', monospace" font-size="9.5" fill="#a78bfa" text-anchor="middle" letter-spacing="0.5">TypeScript</text>
+  </g>
+
+  <rect class="cursor" x="476" y="72" width="3" height="46" fill="#a78bfa" rx="1"/>
+</svg>
