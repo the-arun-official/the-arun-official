@@ -1,35 +1,67 @@
+
 <div align="center">
 
-<!-- Animated Vortex / Slice Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Arun%20Palanisamy&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&stroke=00D9FF&strokeWidth=2&desc=⚡%20Full-Stack%20Developer%20%7C%20PERN%20Stack%20%7C%20Problem%20Solver%20⚡&descAlignY=62&descSize=17&descColor=a8d8ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,20:0B1023,40:111827,60:172554,80:1E3A8A,100:2563EB&text=ARUN%20PALANISAMY&fontColor=FFFFFF&fontSize=65&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20ENGINEER%20•%20PERN%20STACK%20DEVELOPER&descAlignY=58&descColor=93C5FD"/>
 
-<br/>
+<br>
 
-<!-- Animated Greeting Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
-&nbsp;&nbsp;
-<img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=800&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=55&lines=👋+Hey+There!+I'm+Arun+Palanisamy;🚀+Full-Stack+Developer+%7C+PERN+Stack;⚡+REST+API+Craftsman+%26+Auth+Specialist;🎯+Problem+Solver+%26+Quick+Learner;💡+Always+Building%2C+Always+Growing" alt="Typing SVG" />
-&nbsp;&nbsp;
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;PERN+Stack+Developer;TypeScript+%7C+Node.js+%7C+React.js;REST+API+Architect;Problem+Solver+and+Continuous+Learner" />
 
-<br/><br/>
+<br><br>
 
-<!-- Animated Badges Row -->
-<img src="https://img.shields.io/badge/🎓%20B.E%20CSE-Tamil%20Nadu-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/💼%20Open%20to-Opportunities-00FF88?style=for-the-badge&labelColor=0D1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/⚡%20Stack-PERN-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FULLSTACK-DEVELOPER-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-<br/><br/>
+<img src="https://img.shields.io/badge/PERN-STACK-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<!-- Animated coding gif banner -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-ENGINEER-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<br/>
+<img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-22C55E?style=for-the-badge"/>
 
-<!-- Neon divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<br><br>
+
+<img width="900" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+
+<br>
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284126-7f5c7f2d-d14f-48c2-b8cb-ec2b4f4bfcf0.gif">
+
+</div>
+
+<h1 align="center">
+⚡ Crafting Modern Full-Stack Experiences ⚡
+</h1>
+
+<p align="center">
+Building scalable web applications using the PERN Stack while continuously exploring modern software engineering practices.
+</p>
+
+<div align="center">
+
+<a href="mailto:csarun866@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-CONNECT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/PORTFOLIO-COMING%20SOON-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </div>
 
