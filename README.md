@@ -1,32 +1,57 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arun%20Palanisamy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20PERN%20Stack%20%7C%20Problem%20Solver&descAlignY=55&descSize=16"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=🚀+Building+the+Web%2C+One+Stack+at+a+Time;⚡+PERN+Stack+Developer;🎯+Problem+Solver+%26+Quick+Learner;💡+Always+Exploring+New+Technologies;🌐+REST+API+Craftsman" alt="Typing SVG" />
-</a>
+<!-- Animated Vortex / Slice Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Arun%20Palanisamy&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&stroke=00D9FF&strokeWidth=2&desc=⚡%20Full-Stack%20Developer%20%7C%20PERN%20Stack%20%7C%20Problem%20Solver%20⚡&descAlignY=62&descSize=17&descColor=a8d8ff"/>
 
 <br/>
 
-<!-- Profile GIF + About -->
-<img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<!-- Animated Greeting Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=800&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=55&lines=👋+Hey+There!+I'm+Arun+Palanisamy;🚀+Full-Stack+Developer+%7C+PERN+Stack;⚡+REST+API+Craftsman+%26+Auth+Specialist;🎯+Problem+Solver+%26+Quick+Learner;💡+Always+Building%2C+Always+Growing" alt="Typing SVG" />
+&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+<br/><br/>
+
+<!-- Animated Badges Row -->
+<img src="https://img.shields.io/badge/🎓%20B.E%20CSE-Tamil%20Nadu-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/💼%20Open%20to-Opportunities-00FF88?style=for-the-badge&labelColor=0D1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⚡%20Stack-PERN-FF6B6B?style=for-the-badge&labelColor=0D1117"/>
+
+<br/><br/>
+
+<!-- Animated coding gif banner -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+
+<br/>
+
+<!-- Neon divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
-## 🧑‍💻 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> About Me
+
+<img align="right" alt="Coding GIF" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```typescript
-const arun = {
-  name: "Arun Palanisamy",
-  degree: "B.E Computer Science Engineering",
-  email: "csarun866@gmail.com",
-  location: "Tamil Nadu, India 🇮🇳",
-  stack: ["PostgreSQL", "Express.js", "React.js", "Node.js"],
-  passions: ["Full-Stack Dev", "API Design", "Problem Solving"],
-  currentlyLearning: "Cloud & Deployment Architecture ☁️",
-  funFact: "I debug code faster with coffee ☕",
+const arun: Developer = {
+  name      : "Arun Palanisamy",
+  degree    : "B.E Computer Science Engineering 🎓",
+  email     : "csarun866@gmail.com 📧",
+  location  : "Tamil Nadu, India 🇮🇳",
+  stack     : ["PostgreSQL 🐘", "Express.js ⚙️",
+               "React.js ⚛️", "Node.js 🟢"],
+  languages : ["TypeScript", "JavaScript"],
+  auth      : ["JWT 🔐", "OTP Verification"],
+  tools     : ["Git", "Postman", "VS Code"],
+  learning  : "Cloud & Deployment ☁️",
+  mindset   : "Continuous learner. Challenge seeker.",
+  funFact   : "I debug faster with coffee ☕",
+  available : true  // 🟢 Open to opportunities!
 };
 ```
 
